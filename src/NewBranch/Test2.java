@@ -6,6 +6,13 @@ public class Test2 {
 
 		System.out.println("This IS My First Git Push Pull Practice");
 
+		int a = 10;
+		if (a > 20) {
+			System.out.println("Loooks good..............");
+		} else {
+			System.out.println("Good Lack...........");
+		}
+
 	}
 
 }
